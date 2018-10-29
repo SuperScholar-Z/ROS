@@ -1,0 +1,2 @@
+learning_image_transport
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu1404/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu1404/ros_ws/install -G Unix Makefiles
